@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/PRECIF-1.HTM" }
+  ]
+}
